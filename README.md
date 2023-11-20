@@ -15,9 +15,9 @@ streamlit run dashboard.py
 https://dashboarddicoding-koentjoro.streamlit.app/
 
 ## My Dashboard's Screenshot
-![Alt text](image.png)
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
-![Alt text](image-4.png)
-![Alt text](image-5.png)
+![Screenshot 1](./image.png)
+![Screenshot 2](image-1.png)
+![Screenshot 3](image-2.png)
+![Screenshot 4](image-3.png)
+![Screenshot 5](image-4.png)
+![Screenshot 6](image-5.png)
