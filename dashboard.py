@@ -109,6 +109,10 @@ except TypeError:
 
 #Membuat Header
 st.header(':blue[Bike Rental Analysis] :bike:', divider='orange')
+st.write("""Author: Fajrul Iman Giat Koentjoro \n
+Source Code: https://github.com/KoentjoroFIG/dashboard_dicoding
+""")
+st.divider()
 
 
 #Menampilkam Daily/Hourly Tren
