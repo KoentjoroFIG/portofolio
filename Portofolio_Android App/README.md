@@ -1,0 +1,5 @@
+# LIFE (Leucocyte Identifier form Everywhere)
+
+This application is a prototype Android application created using Android Studio with Java. The purpose of this application is to perform image identification or classification of leukocyte types (Lymphoblast and Myeloblast), which can be used to determine the type of leukemia a patient suffers from. Thus, it is hoped that this application can become an early screening tool for leukemia that can be used in areas with limited health facilities. In the process of image classification and segmentation, the application uses machine learning technology with the Scikit-learn library and the Python-based Support Vector Machine (SVM) algorithm. For the integration of this Python model into Java (Android), the Chaquopy plugin is used without an online API, allowing the application to also be used offline.
+
+## I can't provide the source codes and the apk file because this project is part of my Professor research project
